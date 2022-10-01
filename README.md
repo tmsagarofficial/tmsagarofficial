@@ -1,16 +1,36 @@
-### Hi there 👋
+# Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29"><br>
+<p align="center">
+  <samp>
+I'm SAGAR (VIDYASAGAR),<br>A Curious learner, learning more about Web-Dev, web3/crypto, DevOps and a CyberSec Enthusiast 👨‍💻 from Bangalore (INDIA).
+  </samp>
+  <br/>
+  <br/>
+</p>
+<br>
+<br>
+<p align="center">𝑰 ❤️ 𝑪𝑶𝑫𝑬!</p>
 
-<!--
-**tmsagarofficial/tmsagarofficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##### BIO
 
-Here are some ideas to get you started:
+- 🏢 I'm currently an undergrad student here at **BNM Institute of Technology**, Bangalore.
+- ⚙️ I use daily:   `.html`, `.css`, `.js`, `.c`, `.cpp`, `.py`
+- 🌍 I'm mostly active throughout the week 😉
+- 🌱 Learning all about **Open Source** & **InfoSec**
+- 💬 Ping me about  **3d/design/vfx**, **photo/video editing**, **web/mobile dev**, **InfoSec/Cybersecurity**, **design thinking**
+- ⚡️ Fun fact: I can also build non-coding projects .
+- 🤖 I can build bots on telegram too.
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+### 𝕮𝖔𝖓𝖓𝖊𝖈𝖙 𝖜𝖎𝖙𝖍 𝖒𝖊 :speech_balloon: [[CLICK HERE]](tmsagarofficial.bio.link) 
+
+
+
+![@tmsagarofficial](https://user-images.githubusercontent.com/110724849/193393731-8b447354-1d49-49e0-994a-5baf278abe16.png)
+
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=tmsagarofficial.tmsagarofficial)
+
+
+
