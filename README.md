@@ -23,7 +23,7 @@ I'm SAGAR (VIDYASAGAR),<br>A Curious learner, learning more about Web-Dev, web3/
 
 
 
-### 𝕮𝖔𝖓𝖓𝖊𝖈𝖙 𝖜𝖎𝖙𝖍 𝖒𝖊 :speech_balloon: [[CLICK HERE]](tmsagarofficial.bio.link) 
+### 𝕮𝖔𝖓𝖓𝖊𝖈𝖙 𝖜𝖎𝖙𝖍 𝖒𝖊 :speech_balloon: [[CLICK HERE]](https://tmsagarofficial.bio.link/) 
 
 
 
