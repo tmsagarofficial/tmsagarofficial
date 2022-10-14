@@ -13,7 +13,7 @@ I'm SAGAR (VIDYASAGAR),<br>A Curious learner, learning more about Web-Dev, web3/
 ##### BIO
 
 - 🏢 I'm currently an undergrad student here at **BNM Institute of Technology**, Bangalore.
-- ⚙️ I use daily:   `.html`, `.css`, `.js`, `.c`, `.cpp`, `.py`
+- ⚙️ I use daily:   `.html`, `.css`, `.js`, `.c`, `.cpp`, `.py`, `.java`
 - 🌍 I'm mostly active throughout the week 😉
 - 🌱 Learning all about **Open Source** & **InfoSec**
 - 💬 Ping me about  **3d/design/vfx**, **photo/video editing**, **web/mobile dev**, **InfoSec/Cybersecurity**, **design thinking**
