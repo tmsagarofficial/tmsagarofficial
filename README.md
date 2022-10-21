@@ -30,7 +30,7 @@ I'm SAGAR (VIDYASAGAR),<br>A Curious learner, learning more about Web-Dev, web3/
 ![@tmsagarofficial](https://user-images.githubusercontent.com/110724849/193393731-8b447354-1d49-49e0-994a-5baf278abe16.png)
 
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=tmsagarofficial.tmsagarofficial)
+[![@tmsagarofficial's Holopin board](https://holopin.me/tmsagarofficial)](https://holopin.io/@tmsagarofficial)
 
 
 
