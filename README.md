@@ -16,7 +16,7 @@ I'm SAGAR (VIDYASAGAR),<br>A Curious learner, learning more about Web-Dev, web3/
 - ⚙️ I use daily:   `.html`, `.css`, `.js`, `.c`, `.cpp`, `.py`, `.java`
 - 🌍 I'm mostly active throughout the week 😉
 - 🌱 Learning all about **Open Source** & **InfoSec**
-- 💬 Ping me about  **3d/design/vfx**, **photo/video editing**, **web/mobile dev**, **InfoSec/Cybersecurity**, **design thinking**
+- 💬 Ping me about  **3d/design/vfx**, **photo/video editing**, **web/mobile dev**, **design thinking**
 - ⚡️ Fun fact: I can also build non-coding projects .
 - 🤖 I can build bots on telegram too.
 <br>
