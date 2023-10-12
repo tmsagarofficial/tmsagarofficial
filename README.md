@@ -35,7 +35,7 @@ I'm SAGAR (VIDYASAGAR),<br>A Curious learner, learning more about Web-Dev, web3/
 
 ## My #hacktoberfest 2022 & 2023 badges:
 
-[![@tmsagarofficial's Holopin board](https://holopin.me/tmsagarofficial)](https://holopin.io/@tmsagarofficial)
+[![An image of @tmsagarofficial's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tmsagarofficial)](https://holopin.io/@tmsagarofficial)
 
 
 
