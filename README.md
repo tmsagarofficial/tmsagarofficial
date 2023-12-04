@@ -1,7 +1,7 @@
 # Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29"><br>
 <p align="center"> 
   <samp>
-I'm SAGAR (VIDYASAGAR),<br>A Curious learner, learning more about Web-Dev,. web3/crypto, DevOps and a CyberSec Enthusiast 👨‍💻 from Bangalore (INDIA).
+I'm SAGAR (VIDYASAGAR),<br>A Curious learner, learning more about Web-Dev, web3/crypto, DevOps and a CyberSec Enthusiast 👨‍💻 from Bangalore (INDIA).
   </samp>
   <br/>
   <br/>
